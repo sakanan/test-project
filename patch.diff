@@ -1,0 +1,30 @@
+From 89043e50ff620e1acbec2325d67cc39dfa9a1bdf Mon Sep 17 00:00:00 2001
+From: sakanan <sakanan1.04@gmail.com>
+Date: Wed, 14 May 2014 09:32:08 +0700
+Subject: [PATCH] =?UTF-8?q?=E0=B9=80=E0=B8=9E=E0=B8=B4=E0=B9=88=E0=B8=A1?=
+ =?UTF-8?q?=20echo=20=E0=B9=81=E0=B8=AA=E0=B8=94=E0=B8=87=E0=B8=82?=
+ =?UTF-8?q?=E0=B9=89=E0=B8=AD=E0=B8=A1=E0=B8=B9=E0=B8=A5=E0=B8=82=E0=B8=AD?=
+ =?UTF-8?q?=E0=B8=87=E0=B8=95=E0=B8=B1=E0=B8=A7=E0=B9=80=E0=B8=AD=E0=B8=87?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ info.php | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/info.php b/info.php
+index 968c8df..3cdaf6b 100644
+--- a/info.php
++++ b/info.php
+@@ -1,3 +1,5 @@
+ <?php
+-phpinfo();
++
++echo "Test github<br>";
++echo "sakanan @github.com";
+ ?>
+\ No newline at end of file
+-- 
+1.9.2.msysgit.0
+
